@@ -1,0 +1,141 @@
+body{font-family: 'Open Sans', sans-serif;}
+
+.fstimg{
+    width: 555px;
+height: 730px;
+
+}
+.head{
+    display: flex;
+    background: #f8e7ea;
+    padding: 75px;
+   
+    align-items: center;
+    justify-content: space-around;
+  height: 80vh;
+ font-family: ;
+}
+.fstfont{
+    color: #201e1e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+font-size: 54px;
+
+}
+.flower{
+    color: #E55473;
+}
+.fst{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 50;
+    color: rgba(78, 68, 68, 0.6);
+    font-size: 18px;
+font-style: normal;
+}
+
+.btn-primary{
+
+  
+    display: inline-flex;
+     padding: 15px ; 
+    height: 50px;
+    width: 90px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+background: #E55473;
+ 
+}
+.main{
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.pink6{
+    background-color: palevioletred;
+}
+.feat{
+ 
+ text-align: center;
+}
+.six{
+    
+height: 300px;
+}
+.seven{
+    
+    height: 300px;
+    }
+    .eight{
+    
+        height: 300px;
+        }
+ .pink6{
+   background-color: palevioletred;
+   height: 300px;
+ }       
+ .pink7{
+    background-color: aqua;height: 300px;
+ }
+ .pink8{
+    background-color:yellowgreen ;
+ height: 300px;}
+ .cont{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: antiquewhite;
+    height: 250px;
+    margin: 120px;
+   
+    
+ }
+ .discount{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: aliceblue;
+   
+ }
+ .dis{
+    height: 300px;
+ }
+ 
+
+ 
+ .four-img{
+    display: flex;
+   padding: 30px;
+ }
+ .flow{
+    padding: 15px;
+ }
+ .middle{
+    text-align: center;
+    margin-top: 100px;
+    
+ }
+ .latest{
+    background-image: url('Rectangle\ 9.png');
+    text-align: center;
+    height: 350px;
+    margin: 90px;
+    padding-top: 90px;
+ }
+ .footer{
+    background-color: black;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 35px;
+    height: 350px;
+ }
+.zz{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;}
+.cpy-right{
+    color: rgba(255, 255, 255, 0.40);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
